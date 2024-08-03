@@ -2,7 +2,7 @@
 from AlgorithmImports import *
 # endregion
 
-class Demo2(QCAlgorithm):
+class Demo(QCAlgorithm):
 
     def initialize(self):
         self.set_start_date(2019, 1, 1)
